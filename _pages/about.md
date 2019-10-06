@@ -14,6 +14,11 @@ I'd love to hear your feedback on this site and my work.
 
 ----
 
+## Readings
+<a href="https://hinuri.github.io/blog/2019/10/books.html">Time well spent.</a>
+
+----
+
 ## Etcetera
 
 - [Instagram](https://www.instagram.com/) for 📸
